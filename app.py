@@ -25,7 +25,7 @@ def extract_token_from_response(data, region):
 def get_jwt_token_sync(region):
     global jwt_token
     endpoints = {
-        "ID": "https://jwtgenchx.vercel.app/token?uid=3976277520&password=3C07CA0CF3C22DB4DB5A00A8C75E3FED7869FB11CED0ADFB5C8DE7E92652B704",
+        "ID": "https://jwtgenchx.vercel.app/token?uid=4447857856&password=F7A1CB70D6C4DAC606257F11A91132DA90DCCA077E7742831D17FFBE3E73E3E0",
         "BR": "https://projects-fox-x-get-jwt.vercel.app/get?uid=3787481313&password=JlOivPeosauV0l9SG6gwK39lH3x2kJkO",
         "US": "https://tokenalljwt.onrender.com/api/oauth_guest?uid=3787481313&password=JlOivPeosauV0l9SG6gwK39lH3x2kJkO",
         "SAC": "https://tokenalljwt.onrender.com/api/oauth_guest?uid=3787481313&password=JlOivPeosauV0l9SG6gwK39lH3x2kJkO",
